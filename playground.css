@@ -1,0 +1,9 @@
+html * {
+  box-sizing: border-box;
+}
+
+img {
+  border: 6px solid black;
+  display: block;
+  margin: 8px;
+}
